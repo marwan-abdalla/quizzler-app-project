@@ -1,4 +1,4 @@
-## Quizzler - The Ultimate Quiz Game
+# Quizzler - The Ultimate Quiz Game
 
 Welcome to **Quizzler**! This is a fun and interactive True/False quiz game! It will test your knowledge with random trivia questions and see how many you can get right!
 
